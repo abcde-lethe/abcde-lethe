@@ -1,5 +1,6 @@
 ## Neri Rose Perez
 abcde-lethe
+web developer
 
 <!--
 **abcde-lethe/abcde-lethe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
