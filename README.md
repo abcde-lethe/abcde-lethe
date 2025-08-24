@@ -1,6 +1,11 @@
 ## Neri Rose Perez
-abcde-lethe
-web developer
+abcde-lethe <br>
+web developer <br>
+
+🌟currently working on ✨my portfolio✨ <br>
+🌟learning web development at school and online (self-paced courses TnT) <br>
+🌟front-end => back-end => database <br>
+🌟static => dynamic => 3D elements
 
 <!--
 **abcde-lethe/abcde-lethe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
